@@ -1,0 +1,16 @@
+baseURL = "https://blog.7285371.xyz/"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"
+hasCJKLanguage = true
+title = "我的个人随笔博客"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[params]
+description = "个人日常记录博客"
+author = "博主"
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowWordCount = true
+ShowPostNavLinks = true
+ShowShareButtons = false
